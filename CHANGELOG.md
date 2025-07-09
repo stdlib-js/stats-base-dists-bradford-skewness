@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`58e2a62`](https://github.com/stdlib-js/stdlib/commit/58e2a62359bd975009be246ddeda507dc8656fe1) - add C implementation for `stats/base/dists/bradford/skewness`
 -   [`18e1770`](https://github.com/stdlib-js/stdlib/commit/18e1770df01297a9b1a7f6c7a3b25c02cacf192c) - add `stats/base/dists/bradford/skewness` [(#6401)](https://github.com/stdlib-js/stdlib/pull/6401)
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`58e2a62`](https://github.com/stdlib-js/stdlib/commit/58e2a62359bd975009be246ddeda507dc8656fe1) - **feat:** add C implementation for `stats/base/dists/bradford/skewness` _(by Philipp Burckhardt)_
 -   [`18e1770`](https://github.com/stdlib-js/stdlib/commit/18e1770df01297a9b1a7f6c7a3b25c02cacf192c) - **feat:** add `stats/base/dists/bradford/skewness` [(#6401)](https://github.com/stdlib-js/stdlib/pull/6401) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
 
 </details>
