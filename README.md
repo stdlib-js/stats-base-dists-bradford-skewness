@@ -62,7 +62,7 @@ The [skewness][skewness] for a [Bradford][bradford-distribution] random variable
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bradford-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bradford-skewness@v0.1.0-esm/index.mjs';
 ```
 
 #### skewness( c )
@@ -112,7 +112,7 @@ var v = skewness( -1.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bradford-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-bradford-skewness@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
