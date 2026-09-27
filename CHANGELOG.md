@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-22)
+## Unreleased (2026-09-27)
 
 <section class="commits">
 
@@ -12,6 +12,10 @@
 
 <details>
 
+-   [`ee0f8b8`](https://github.com/stdlib-js/stdlib/commit/ee0f8b81c2f2a317660ec9b8296516037cc66e3d) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`ea33a97`](https://github.com/stdlib-js/stdlib/commit/ea33a97f17b445e4671c3e30c3680e81e411dc8f) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`dc56a79`](https://github.com/stdlib-js/stdlib/commit/dc56a7995edf69ba19eb1c83c45a16efebee205b) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
+-   [`27b070d`](https://github.com/stdlib-js/stdlib/commit/27b070dd566f397ad5e5da2103e55906863e5b57) - **chore:** clean-up [(#15517)](https://github.com/stdlib-js/stdlib/pull/15517) _(by Philipp Burckhardt, Athan Reines)_
 -   [`a3e3463`](https://github.com/stdlib-js/stdlib/commit/a3e346300a2855a4a1bfb48c31f588db0f515121) - **style:** add whitespace [(#15394)](https://github.com/stdlib-js/stdlib/pull/15394) _(by Philipp Burckhardt)_
 -   [`f6cb356`](https://github.com/stdlib-js/stdlib/commit/f6cb3560299ee2838210202d0ac3a3773e2c0694) - **test:** migrate `stats/base/dists/bradford/skewness` to ULP-based assertions [(#15281)](https://github.com/stdlib-js/stdlib/pull/15281) _(by Aryan kumar)_
 -   [`749de6f`](https://github.com/stdlib-js/stdlib/commit/749de6f8c437bf7daad8413ff86175781c934df2) - **bench:** refactor to use string interpolation in `stats/base/dists/bradford` [(#10234)](https://github.com/stdlib-js/stdlib/pull/10234) _(by Vishal Gaikwad)_
@@ -26,9 +30,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aryan kumar
+-   Athan Reines
 -   Philipp Burckhardt
 -   Vishal Gaikwad
 
